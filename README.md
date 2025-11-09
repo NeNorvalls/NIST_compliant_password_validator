@@ -1,1 +1,1 @@
-# NIST_compliant_password_vaidator
+# NIST_compliant_password_validator
